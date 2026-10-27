@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Autorepuestos Pro",
+  "description": "Sistema integral de gestión de inventarios en tiempo real, tienda virtual de repuestos y accesorios para autos, pasarela de pagos y chat de atención al cliente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
